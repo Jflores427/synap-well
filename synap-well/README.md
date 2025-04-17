@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A Machine Learning project that combines mental health and fitness suggestions.
+A Machine Learning project that combines mental health, weather, and fitness suggestions.
 
 ## Project Organization
 
