@@ -5,7 +5,7 @@
 # Models
 /models/custom-emotion-model/logs
 /models/custom-emotion-model/results
-**/*/model.safetensors
+**/*/*.safetensors
 
 # Mac OS-specific storage files
 .DS_Store
