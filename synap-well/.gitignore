@@ -1,5 +1,11 @@
 # Data
-/data/
+/data/external
+/data/interim
+
+# Models
+/models/custom-emotion-model/logs
+/models/custom-emotion-model/results
+**/*/*.safetensors
 
 # Mac OS-specific storage files
 .DS_Store
