@@ -1,0 +1,1401 @@
+level_of_workload_scale_110,level_of_stress_scale_110,duration_of_sleep_hours,level_of_physical_activity_minutes_per_day,environmental_aspects_such_as_weather_and_air_quality,nutrition_intake_calories_breakdown_of_nutrients_etc,mood_output
+6.0,5.0,7.5,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,3.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+5.0,4.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.4,45.0,"Sunny, good air quality",2850 calories (high in fat),Neutral
+2.0,5.0,8.2,15.0,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+9.0,7.0,6.0,60.0,"Sunny, good air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+5.0,3.0,7.0,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+7.0,4.0,6.8,45.0,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.0,8.0,8.2,15.0,"Sunny, good air quality",1800 calories (low in protein),Sad
+4.0,2.0,7.0,60.0,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+10.0,9.0,5.5,10.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+4.0,2.0,7.8,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.0,6.0,6.5,45.0,"Sunny, good air quality",2800 calories (high in fat),Neutral
+3.0,1.0,8.5,15.0,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,10.0,5.8,10.0,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+5.0,3.0,7.2,30.0,"Sunny, good air quality",2050 calories (balanced diet),Happy
+7.0,4.0,6.6,45.0,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+9.0,8.0,8.0,15.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,30.0,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+8.9,8.0,8.0,14.8,"Sunny, good air quality",2000 calories (balanced diet),Sad
+4.0,1.9,7.4,59.6,"Sunny, good air quality",2850 calories (high in fat),Happy
+10.1,9.1,5.2,10.1,"Rainy, poor air quality",2450 calories (healthy diet),Happy
+10.0,10.1,5.6,10.5,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+5.1,3.1,7.2,30.1,"Cloudy, moderate air quality",3200 calories (unhealthy),Happy
+7.1,4.0,6.6,44.6,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+9.1,7.0,6.2,60.6,"Sunny, good air quality",1850 calories (low in protein),Neutral
+9.2,8.1,8.2,15.3,"Sunny, good air quality",2450 calories (healthy diet),Sad
+9.0,7.1,6.3,59.5,"Rainy, poor air quality",2050 calories (balanced diet),Sad
+10.2,10.1,5.8,9.6,"Sunny, good air quality",3700 calories (unhealthy),Happy
+9.9,9.9,5.8,8.7,"Sunny, good air quality",2000 calories (balanced diet),Sad
+8.9,7.0,6.2,59.7,"Cloudy, moderate air quality",1750 calories (low in calories),Neutral
+9.0,7.9,8.2,14.6,"Sunny, good air quality",3700 calories (unhealthy),Sad
+4.1,1.9,7.0,60.4,"Cloudy, moderate air quality",3000 calories (unhealthy),Neutral
+5.1,3.0,7.0,29.1,"Cloudy, moderate air quality",1800 calories (low in protein),Neutral
+4.2,2.0,7.0,60.3,"Rainy, poor air quality",2050 calories (balanced diet),Sad
+3.0,0.9,8.5,14.8,"Sunny, good air quality",2500 calories (high in carbs),Neutral
+5.0,2.9,7.0,29.5,"Sunny, good air quality",3000 calories (unhealthy),Happy
+9.0,7.0,6.2,60.0,"Sunny, good air quality",3000 calories (unhealthy),Sad
+7.0,4.0,6.6,45.7,"Sunny, good air quality",2100 calories (balanced diet),Happy
+2.0,5.1,8.2,14.2,"Sunny, good air quality",2000 calories (balanced diet),Happy
+6.8,4.1,6.8,44.4,"Sunny, good air quality",2800 calories (high in fat),Sad
+3.8,1.9,7.4,61.4,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+9.1,8.0,8.0,14.0,"Sunny, good air quality",2450 calories (healthy diet),Happy
+2.9,1.0,7.6,29.1,"Sunny, good air quality",2050 calories (balanced diet),Happy
+10.0,9.0,5.5,10.8,"Rainy, poor air quality",1800 calories (low in protein),Sad
+9.9,10.1,5.5,9.4,"Sunny, good air quality",2400 calories (healthy diet),Happy
+9.1,7.9,8.2,15.1,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+8.9,8.0,8.0,14.0,"Sunny, good air quality",2250 calories (healthy diet),Neutral
+4.9,3.1,7.0,30.3,"Sunny, good air quality",2050 calories (balanced diet),Neutral
+10.0,9.1,5.2,9.8,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+9.1,8.0,8.0,15.2,"Sunny, good air quality",2050 calories (balanced diet),Sad
+10.0,9.1,5.2,9.2,"Cloudy, moderate air quality",2050 calories (balanced diet),Neutral
+9.0,8.0,8.0,14.8,"Sunny, good air quality",2000 calories (balanced diet),Sad
+7.0,4.0,6.6,44.7,"Sunny, good air quality",2600 calories (high in carbs),Sad
+7.0,3.9,6.8,45.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+9.9,10.0,5.6,10.6,"Cloudy, moderate air quality",1700 calories (low in calories),Sad
+8.9,8.0,8.0,14.6,"Sunny, good air quality",2400 calories (healthy diet),Neutral
+8.0,5.9,6.5,44.6,"Sunny, good air quality",2500 calories (high in carbs),Neutral
+2.1,4.9,8.2,14.1,"Rainy, poor air quality",2450 calories (healthy diet),Sad
+7.0,4.0,6.6,45.6,"Sunny, good air quality",2500 calories (high in carbs),Neutral
+4.0,2.0,7.0,60.2,"Sunny, good air quality",2050 calories (balanced diet),Happy
+3.0,1.0,7.6,30.8,"Rainy, poor air quality",2500 calories (high in carbs),Happy
+4.0,2.0,7.0,59.8,"Sunny, good air quality",2100 calories (balanced diet),Sad
+10.1,9.1,5.5,8.9,"Sunny, good air quality",2450 calories (healthy diet),Happy
+9.9,10.0,5.8,10.7,"Rainy, poor air quality",2050 calories (balanced diet),Neutral
+3.9,2.1,7.0,60.7,"Cloudy, moderate air quality",2400 calories (healthy diet),Sad
+9.0,7.1,6.2,60.7,"Rainy, poor air quality",2850 calories (high in fat),Sad
+10.0,10.0,5.6,9.8,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+8.0,6.1,6.4,45.1,"Sunny, good air quality",3000 calories (unhealthy),Neutral
+5.0,2.9,7.0,29.9,"Rainy, poor air quality",2250 calories (healthy diet),Neutral
+2.0,5.0,8.2,14.5,"Rainy, poor air quality",2050 calories (balanced diet),Sad
+3.0,1.0,8.5,15.3,"Rainy, poor air quality",2000 calories (balanced diet),Happy
+10.1,9.0,5.5,9.9,"Cloudy, moderate air quality",2850 calories (high in fat),Sad
+7.0,3.9,6.8,46.0,"Sunny, good air quality",2100 calories (balanced diet),Sad
+5.0,3.1,7.0,29.8,"Sunny, good air quality",2050 calories (balanced diet),Sad
+6.9,4.0,6.8,45.2,"Rainy, poor air quality",2600 calories (high in carbs),Happy
+3.1,0.9,7.6,29.8,"Sunny, good air quality",2800 calories (high in fat),Sad
+7.0,3.9,6.8,45.9,"Sunny, good air quality",3200 calories (unhealthy),Sad
+2.0,5.0,8.2,14.9,"Rainy, poor air quality",1850 calories (low in protein),Happy
+9.0,6.9,6.0,60.5,"Sunny, good air quality",3000 calories (unhealthy),Sad
+10.0,9.9,5.8,8.6,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+9.0,8.0,8.0,14.3,"Rainy, poor air quality",2050 calories (balanced diet),Sad
+7.0,4.1,6.6,44.9,"Sunny, good air quality",1700 calories (low in calories),Sad
+8.9,6.9,6.0,59.9,"Rainy, poor air quality",2800 calories (high in fat),Happy
+9.0,7.1,6.2,59.8,"Sunny, good air quality",2450 calories (healthy diet),Neutral
+9.1,8.1,8.2,15.2,"Sunny, good air quality",1800 calories (low in protein),Neutral
+5.0,3.1,6.9,30.3,"Sunny, good air quality",1850 calories (low in protein),Sad
+7.1,4.0,6.5,45.6,"Rainy, poor air quality",1850 calories (low in protein),Neutral
+3.0,1.1,7.6,29.5,"Sunny, good air quality",1850 calories (low in protein),Sad
+9.0,8.2,8.2,15.5,"Cloudy, moderate air quality",2000 calories (balanced diet),Happy
+7.1,4.1,6.8,44.4,"Sunny, good air quality",3700 calories (unhealthy),Happy
+9.0,7.9,8.2,15.2,"Cloudy, moderate air quality",3500 calories (unhealthy),Neutral
+7.0,4.1,6.6,45.1,"Rainy, poor air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.8,29.8,"Sunny, good air quality",2400 calories (healthy diet),Neutral
+10.1,10.2,5.6,9.1,"Cloudy, moderate air quality",2400 calories (healthy diet),Neutral
+10.0,10.1,5.8,10.1,"Sunny, good air quality",1750 calories (low in calories),Sad
+5.0,3.1,7.0,30.8,"Rainy, poor air quality",2800 calories (high in fat),Sad
+3.8,2.0,7.4,60.2,"Sunny, good air quality",3700 calories (unhealthy),Sad
+10.0,10.0,5.8,10.7,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+9.1,7.0,6.0,59.7,"Sunny, good air quality",2500 calories (high in carbs),Sad
+5.0,3.0,6.9,30.2,"Sunny, good air quality",2100 calories (balanced diet),Happy
+9.9,9.9,5.6,9.3,"Rainy, poor air quality",2250 calories (healthy diet),Neutral
+3.0,1.0,7.6,30.1,"Sunny, good air quality",2050 calories (balanced diet),Sad
+7.1,4.2,6.8,43.9,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+6.8,4.0,6.6,44.4,"Rainy, poor air quality",3000 calories (unhealthy),Sad
+6.9,3.9,6.6,45.8,"Sunny, good air quality",1800 calories (low in protein),Happy
+4.9,3.0,7.2,30.6,"Rainy, poor air quality",1800 calories (low in protein),Happy
+8.1,6.1,6.4,44.3,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+8.1,6.0,6.4,44.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+5.0,2.9,7.2,30.8,"Cloudy, moderate air quality",3500 calories (unhealthy),Happy
+4.8,2.8,7.2,30.1,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+3.0,1.0,8.5,14.6,"Sunny, good air quality",3700 calories (unhealthy),Neutral
+10.1,10.0,5.6,10.4,"Sunny, good air quality",1700 calories (low in calories),Sad
+3.0,1.0,7.6,29.9,"Sunny, good air quality",3200 calories (unhealthy),Happy
+5.0,2.9,6.9,29.9,"Cloudy, moderate air quality",2250 calories (healthy diet),Sad
+2.9,1.1,7.6,30.1,"Sunny, good air quality",3200 calories (unhealthy),Neutral
+3.9,2.0,7.4,60.9,"Rainy, poor air quality",2050 calories (balanced diet),Neutral
+9.1,7.0,6.2,59.6,"Sunny, good air quality",2850 calories (high in fat),Neutral
+7.0,4.0,6.8,45.7,"Sunny, good air quality",2200 calories (healthy diet),Happy
+7.0,3.9,6.6,45.7,"Rainy, poor air quality",3200 calories (unhealthy),Neutral
+2.1,4.9,8.2,13.9,"Sunny, good air quality",2200 calories (healthy diet),Sad
+4.2,1.9,7.8,28.7,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+9.0,8.1,8.2,14.7,"Rainy, poor air quality",3200 calories (unhealthy),Happy
+3.0,0.7,7.6,30.6,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+9.2,8.0,8.2,14.9,"Rainy, poor air quality",2800 calories (high in fat),Happy
+9.0,6.9,6.2,60.5,"Cloudy, moderate air quality",3000 calories (unhealthy),Sad
+4.9,3.0,7.2,29.5,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+9.1,6.9,6.1,61.1,"Cloudy, moderate air quality",2200 calories (healthy diet),Sad
+8.1,6.0,6.4,45.1,"Cloudy, moderate air quality",2450 calories (healthy diet),Happy
+4.1,2.1,7.4,60.4,"Rainy, poor air quality",2250 calories (healthy diet),Happy
+8.9,7.0,6.0,59.8,"Sunny, good air quality",3700 calories (unhealthy),Happy
+9.0,7.0,6.0,60.8,"Cloudy, moderate air quality",2400 calories (healthy diet),Happy
+7.0,4.0,6.6,44.9,"Rainy, poor air quality",2100 calories (balanced diet),Happy
+10.1,10.1,5.8,9.7,"Rainy, poor air quality",2850 calories (high in fat),Sad
+7.0,4.1,6.6,45.5,"Sunny, good air quality",2200 calories (healthy diet),Sad
+7.1,3.9,6.6,44.4,"Sunny, good air quality",2200 calories (healthy diet),Sad
+4.8,3.0,7.2,29.4,"Sunny, good air quality",2500 calories (high in carbs),Neutral
+3.1,1.0,7.6,30.1,"Sunny, good air quality",2600 calories (high in carbs),Happy
+3.0,1.0,8.5,14.8,"Sunny, good air quality",3200 calories (unhealthy),Sad
+9.0,6.9,6.0,59.6,"Sunny, good air quality",2100 calories (balanced diet),Sad
+4.1,2.0,7.8,30.3,"Cloudy, moderate air quality",1850 calories (low in protein),Sad
+9.1,6.9,6.2,60.2,"Sunny, good air quality",2100 calories (balanced diet),Happy
+2.0,5.0,8.2,15.2,"Sunny, good air quality",2850 calories (high in fat),Sad
+9.0,8.0,8.0,14.6,"Sunny, good air quality",3200 calories (unhealthy),Happy
+4.0,2.0,7.0,58.8,"Cloudy, moderate air quality",3200 calories (unhealthy),Happy
+9.1,7.9,8.0,15.3,"Sunny, good air quality",2100 calories (balanced diet),Sad
+4.9,3.0,7.0,30.2,"Cloudy, moderate air quality",3200 calories (unhealthy),Sad
+9.9,10.1,5.8,10.7,"Sunny, good air quality",2450 calories (healthy diet),Neutral
+9.1,6.9,6.0,59.5,"Rainy, poor air quality",2050 calories (balanced diet),Sad
+9.0,8.1,8.0,14.8,"Sunny, good air quality",2050 calories (balanced diet),Sad
+5.0,3.0,7.2,29.9,"Rainy, poor air quality",3000 calories (unhealthy),Sad
+6.9,4.0,6.6,44.6,"Rainy, poor air quality",1850 calories (low in protein),Neutral
+10.1,8.9,5.6,9.7,"Rainy, poor air quality",2450 calories (healthy diet),Sad
+4.0,2.0,7.8,30.2,"Sunny, good air quality",2250 calories (healthy diet),Sad
+5.0,2.9,7.0,30.5,"Sunny, good air quality",1700 calories (low in calories),Neutral
+7.0,4.0,6.8,44.9,"Sunny, good air quality",2200 calories (healthy diet),Sad
+4.0,2.0,7.0,59.6,"Cloudy, moderate air quality",3000 calories (unhealthy),Sad
+7.9,6.1,6.5,45.7,"Sunny, good air quality",3500 calories (unhealthy),Neutral
+2.9,1.2,8.5,15.6,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+7.0,4.0,6.7,44.9,"Sunny, good air quality",3200 calories (unhealthy),Sad
+10.1,9.0,5.2,10.1,"Rainy, poor air quality",2500 calories (high in carbs),Happy
+9.0,7.9,8.2,15.4,"Cloudy, moderate air quality",2450 calories (healthy diet),Sad
+8.9,6.9,6.0,59.9,"Sunny, good air quality",2850 calories (high in fat),Happy
+3.1,1.0,7.7,30.9,"Rainy, poor air quality",2800 calories (high in fat),Neutral
+8.8,7.9,8.0,14.9,"Cloudy, moderate air quality",1750 calories (low in calories),Sad
+1.8,5.0,8.2,15.5,"Rainy, poor air quality",3000 calories (unhealthy),Sad
+6.9,4.1,6.8,45.0,"Sunny, good air quality",1700 calories (low in calories),Neutral
+5.0,3.1,7.0,29.7,"Cloudy, moderate air quality",2800 calories (high in fat),Sad
+9.0,7.9,8.2,14.7,"Sunny, good air quality",3500 calories (unhealthy),Happy
+8.9,8.0,8.0,14.8,"Cloudy, moderate air quality",1800 calories (low in protein),Sad
+3.9,2.0,7.0,60.2,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+1.9,4.9,8.2,15.3,"Rainy, poor air quality",2400 calories (healthy diet),Sad
+3.9,1.9,7.4,59.9,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.0,1.0,7.6,29.6,"Sunny, good air quality",3700 calories (unhealthy),Happy
+8.1,6.0,6.4,45.7,"Rainy, poor air quality",3700 calories (unhealthy),Neutral
+3.0,1.0,7.6,28.7,"Cloudy, moderate air quality",2800 calories (high in fat),Sad
+5.0,3.1,7.2,29.6,"Rainy, poor air quality",2800 calories (high in fat),Sad
+9.0,8.1,8.2,15.4,"Rainy, poor air quality",3000 calories (unhealthy),Sad
+5.0,3.1,7.2,29.6,"Sunny, good air quality",2200 calories (healthy diet),Happy
+9.1,7.0,6.2,60.1,"Rainy, poor air quality",2500 calories (high in carbs),Sad
+5.9,5.0,7.5,30.1,"Sunny, good air quality",3700 calories (unhealthy),Sad
+9.9,10.0,5.8,8.8,"Sunny, good air quality",2850 calories (high in fat),Happy
+10.0,9.1,5.2,10.0,"Sunny, good air quality",2250 calories (healthy diet),Happy
+5.2,3.1,7.2,31.0,"Rainy, poor air quality",2850 calories (high in fat),Neutral
+10.0,8.9,5.2,10.8,"Cloudy, moderate air quality",3500 calories (unhealthy),Sad
+4.0,1.9,7.4,59.6,"Rainy, poor air quality",2100 calories (balanced diet),Happy
+10.1,9.0,5.2,10.0,"Rainy, poor air quality",1750 calories (low in calories),Happy
+10.1,10.0,5.6,9.6,"Sunny, good air quality",2000 calories (balanced diet),Sad
+4.2,2.1,7.3,61.1,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+9.0,7.0,6.2,60.5,"Rainy, poor air quality",2250 calories (healthy diet),Sad
+9.1,8.1,8.1,14.7,"Rainy, poor air quality",1750 calories (low in calories),Sad
+10.0,10.1,5.8,10.1,"Cloudy, moderate air quality",3200 calories (unhealthy),Happy
+5.1,3.0,7.2,29.9,"Rainy, poor air quality",2850 calories (high in fat),Neutral
+9.0,8.1,8.2,15.1,"Rainy, poor air quality",1800 calories (low in protein),Sad
+9.0,6.9,6.2,60.1,"Sunny, good air quality",1700 calories (low in calories),Happy
+9.1,7.0,6.0,59.5,"Cloudy, moderate air quality",1700 calories (low in calories),Happy
+5.0,3.1,7.2,29.6,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+4.1,2.0,7.8,29.8,"Rainy, poor air quality",2200 calories (healthy diet),Sad
+10.0,10.1,5.8,10.3,"Sunny, good air quality",3700 calories (unhealthy),Happy
+10.0,9.9,5.8,10.8,"Sunny, good air quality",2250 calories (healthy diet),Happy
+3.0,1.0,7.6,28.9,"Sunny, good air quality",1850 calories (low in protein),Sad
+7.0,3.7,6.8,44.2,"Rainy, poor air quality",1700 calories (low in calories),Sad
+3.0,1.0,8.5,14.4,"Sunny, good air quality",1850 calories (low in protein),Sad
+9.0,6.9,6.0,59.3,"Sunny, good air quality",3500 calories (unhealthy),Happy
+9.2,7.9,8.0,14.5,"Cloudy, moderate air quality",3000 calories (unhealthy),Neutral
+4.0,2.1,7.4,59.6,"Cloudy, moderate air quality",3200 calories (unhealthy),Neutral
+3.9,1.9,7.4,59.1,"Sunny, good air quality",3000 calories (unhealthy),Happy
+4.0,2.0,6.9,59.4,"Sunny, good air quality",3500 calories (unhealthy),Happy
+3.9,2.0,7.4,59.4,"Sunny, good air quality",1750 calories (low in calories),Neutral
+8.1,6.0,6.4,44.6,"Rainy, poor air quality",1800 calories (low in protein),Sad
+9.1,7.0,6.2,60.6,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+10.0,9.1,5.5,10.8,"Sunny, good air quality",2850 calories (high in fat),Neutral
+8.9,6.8,6.2,60.4,"Sunny, good air quality",1750 calories (low in calories),Neutral
+10.1,10.1,5.8,10.1,"Cloudy, moderate air quality",3500 calories (unhealthy),Neutral
+8.0,6.0,6.4,45.2,"Rainy, poor air quality",2000 calories (balanced diet),Neutral
+9.0,8.1,8.0,15.2,"Sunny, good air quality",2400 calories (healthy diet),Happy
+4.9,3.0,7.2,30.3,"Sunny, good air quality",2500 calories (high in carbs),Happy
+3.0,1.0,8.5,15.5,"Cloudy, moderate air quality",1750 calories (low in calories),Sad
+9.1,7.0,6.2,61.2,"Rainy, poor air quality",1800 calories (low in protein),Sad
+9.0,7.0,6.2,60.2,"Sunny, good air quality",2450 calories (healthy diet),Neutral
+9.0,8.0,8.2,15.1,"Rainy, poor air quality",3700 calories (unhealthy),Neutral
+4.9,3.0,7.2,28.9,"Rainy, poor air quality",2800 calories (high in fat),Sad
+8.1,5.9,6.4,43.6,"Sunny, good air quality",1700 calories (low in calories),Sad
+4.0,2.0,7.0,60.2,"Rainy, poor air quality",2500 calories (high in carbs),Happy
+3.0,1.0,7.6,30.0,"Sunny, good air quality",2000 calories (balanced diet),Happy
+3.0,0.9,8.5,14.9,"Cloudy, moderate air quality",1800 calories (low in protein),Happy
+8.1,5.9,6.5,46.3,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+10.0,9.8,5.6,10.8,"Sunny, good air quality",2600 calories (high in carbs),Neutral
+9.1,8.1,8.2,14.9,"Sunny, good air quality",2200 calories (healthy diet),Sad
+9.0,6.9,6.0,60.7,"Cloudy, moderate air quality",1800 calories (low in protein),Neutral
+10.1,10.0,5.7,9.6,"Sunny, good air quality",1800 calories (low in protein),Happy
+5.0,2.8,7.2,30.6,"Sunny, good air quality",1800 calories (low in protein),Neutral
+3.9,2.0,7.4,59.8,"Sunny, good air quality",2400 calories (healthy diet),Happy
+8.0,6.0,6.5,44.7,"Sunny, good air quality",2800 calories (high in fat),Happy
+4.0,1.9,7.0,60.1,"Rainy, poor air quality",2850 calories (high in fat),Neutral
+7.1,4.2,6.8,44.4,"Rainy, poor air quality",2400 calories (healthy diet),Sad
+9.0,6.9,6.0,59.6,"Sunny, good air quality",1850 calories (low in protein),Neutral
+8.0,6.0,6.4,45.6,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+9.1,8.0,7.9,15.0,"Rainy, poor air quality",3200 calories (unhealthy),Sad
+8.9,8.0,8.2,15.5,"Sunny, good air quality",2050 calories (balanced diet),Sad
+6.9,3.9,6.8,44.8,"Rainy, poor air quality",2250 calories (healthy diet),Neutral
+10.0,10.1,5.8,9.7,"Sunny, good air quality",2250 calories (healthy diet),Happy
+10.1,10.0,5.6,10.2,"Rainy, poor air quality",1850 calories (low in protein),Sad
+4.0,2.0,7.4,60.0,"Sunny, good air quality",2450 calories (healthy diet),Happy
+9.9,10.0,5.8,9.1,"Sunny, good air quality",2100 calories (balanced diet),Happy
+10.0,10.1,5.8,10.0,"Sunny, good air quality",1800 calories (low in protein),Happy
+2.0,4.9,8.2,14.6,"Sunny, good air quality",2000 calories (balanced diet),Neutral
+10.1,9.9,5.6,9.9,"Cloudy, moderate air quality",1750 calories (low in calories),Sad
+7.9,6.0,6.4,45.1,"Sunny, good air quality",2200 calories (healthy diet),Sad
+4.0,2.1,7.8,29.1,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+5.1,3.1,7.2,29.3,"Sunny, good air quality",1850 calories (low in protein),Happy
+4.0,2.1,7.8,29.9,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+3.9,2.0,7.8,29.3,"Sunny, good air quality",3500 calories (unhealthy),Neutral
+5.0,2.8,7.0,29.8,"Sunny, good air quality",1700 calories (low in calories),Neutral
+9.1,8.0,8.0,15.5,"Sunny, good air quality",2100 calories (balanced diet),Sad
+9.9,10.0,5.7,10.1,"Rainy, poor air quality",1700 calories (low in calories),Happy
+3.0,0.9,7.6,29.8,"Sunny, good air quality",2000 calories (balanced diet),Happy
+9.9,9.0,5.5,9.2,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+7.1,4.0,6.8,44.1,"Cloudy, moderate air quality",2600 calories (high in carbs),Neutral
+9.1,7.0,6.0,60.1,"Cloudy, moderate air quality",2600 calories (high in carbs),Neutral
+8.8,7.1,6.0,59.6,"Sunny, good air quality",1850 calories (low in protein),Neutral
+8.9,6.9,6.2,60.4,"Rainy, poor air quality",3500 calories (unhealthy),Neutral
+2.1,5.0,8.2,14.8,"Sunny, good air quality",2450 calories (healthy diet),Happy
+10.0,9.1,5.5,10.0,"Sunny, good air quality",2500 calories (high in carbs),Sad
+10.0,9.8,5.6,9.9,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+8.1,5.8,6.4,45.6,"Sunny, good air quality",3700 calories (unhealthy),Neutral
+8.9,7.8,8.1,14.3,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+3.0,0.9,8.5,14.7,"Rainy, poor air quality",2250 calories (healthy diet),Sad
+9.9,9.0,5.5,10.7,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+8.9,7.2,6.2,60.4,"Rainy, poor air quality",1750 calories (low in calories),Happy
+8.0,6.0,6.4,46.5,"Cloudy, moderate air quality",2500 calories (high in carbs),Happy
+7.9,5.9,6.4,45.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+4.0,1.9,7.4,59.6,"Cloudy, moderate air quality",2600 calories (high in carbs),Sad
+9.9,10.2,5.6,9.9,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+8.0,6.0,6.5,46.4,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+2.9,1.0,7.6,29.6,"Cloudy, moderate air quality",2500 calories (high in carbs),Happy
+7.0,4.0,6.6,45.1,"Sunny, good air quality",2800 calories (high in fat),Happy
+8.9,7.0,6.0,59.6,"Cloudy, moderate air quality",2050 calories (balanced diet),Happy
+4.2,2.0,7.0,59.8,"Sunny, good air quality",2250 calories (healthy diet),Neutral
+3.1,0.9,7.6,30.5,"Sunny, good air quality",2250 calories (healthy diet),Happy
+8.2,6.1,6.5,45.5,"Cloudy, moderate air quality",2000 calories (balanced diet),Happy
+8.0,5.9,6.4,45.3,"Rainy, poor air quality",1700 calories (low in calories),Happy
+8.1,6.0,6.5,44.8,"Sunny, good air quality",2600 calories (high in carbs),Happy
+9.0,8.0,8.3,14.5,"Rainy, poor air quality",2250 calories (healthy diet),Neutral
+10.0,10.1,5.8,10.2,"Rainy, poor air quality",1850 calories (low in protein),Sad
+7.0,3.1,6.8,45.3,"Sunny, good air quality",2050 calories (balanced diet),Neutral
+3.9,2.1,7.0,59.5,"Cloudy, moderate air quality",2800 calories (high in fat),Neutral
+9.8,9.0,5.5,9.9,"Sunny, good air quality",2000 calories (balanced diet),Sad
+9.9,9.9,5.8,10.0,"Rainy, poor air quality",1850 calories (low in protein),Neutral
+7.0,4.0,6.7,45.2,"Rainy, poor air quality",2100 calories (balanced diet),Happy
+10.1,10.0,5.8,9.7,"Rainy, poor air quality",1700 calories (low in calories),Happy
+3.1,1.0,8.5,15.0,"Rainy, poor air quality",2450 calories (healthy diet),Sad
+10.0,10.0,5.6,10.0,"Sunny, good air quality",3700 calories (unhealthy),Sad
+3.0,1.0,7.6,28.9,"Sunny, good air quality",3200 calories (unhealthy),Neutral
+9.0,6.8,6.0,59.7,"Rainy, poor air quality",2500 calories (high in carbs),Sad
+9.0,7.1,6.2,59.5,"Cloudy, moderate air quality",1800 calories (low in protein),Sad
+10.0,10.1,5.6,9.9,"Rainy, poor air quality",2050 calories (balanced diet),Happy
+7.0,4.1,6.7,45.7,"Sunny, good air quality",2250 calories (healthy diet),Neutral
+10.1,9.1,5.5,9.5,"Sunny, good air quality",1750 calories (low in calories),Sad
+8.9,7.0,6.0,60.8,"Rainy, poor air quality",3200 calories (unhealthy),Sad
+10.0,10.2,5.8,10.7,"Sunny, good air quality",2600 calories (high in carbs),Happy
+7.9,5.8,6.5,44.8,"Rainy, poor air quality",2850 calories (high in fat),Sad
+3.0,1.0,8.5,15.6,"Rainy, poor air quality",1750 calories (low in calories),Sad
+10.1,9.9,5.6,9.3,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+8.9,7.0,6.2,61.0,"Rainy, poor air quality",1750 calories (low in calories),Sad
+9.0,7.0,6.2,60.4,"Rainy, poor air quality",3000 calories (unhealthy),Neutral
+5.2,3.0,7.0,30.2,"Rainy, poor air quality",1800 calories (low in protein),Happy
+9.9,9.0,5.6,10.4,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+3.0,1.1,8.5,16.2,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+5.1,3.3,7.2,29.9,"Sunny, good air quality",3700 calories (unhealthy),Sad
+7.9,6.1,6.5,44.7,"Rainy, poor air quality",1750 calories (low in calories),Happy
+4.0,1.9,7.0,60.6,"Sunny, good air quality",1700 calories (low in calories),Sad
+9.0,8.0,8.0,14.7,"Sunny, good air quality",2250 calories (healthy diet),Sad
+9.9,9.9,5.7,10.0,"Cloudy, moderate air quality",2600 calories (high in carbs),Neutral
+3.1,1.0,8.5,14.6,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+8.9,7.0,6.2,60.4,"Sunny, good air quality",3700 calories (unhealthy),Sad
+7.0,4.0,6.6,45.3,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+9.9,9.0,5.1,10.1,"Sunny, good air quality",3700 calories (unhealthy),Neutral
+8.0,6.1,6.5,44.9,"Sunny, good air quality",3700 calories (unhealthy),Happy
+10.1,10.0,5.8,10.7,"Rainy, poor air quality",3700 calories (unhealthy),Neutral
+9.8,9.0,5.2,8.9,"Sunny, good air quality",1850 calories (low in protein),Happy
+3.1,1.0,8.4,15.1,"Sunny, good air quality",3500 calories (unhealthy),Sad
+5.0,3.2,7.0,29.8,"Sunny, good air quality",2200 calories (healthy diet),Sad
+2.0,5.1,8.2,14.8,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+4.1,2.1,7.0,59.2,"Sunny, good air quality",2500 calories (high in carbs),Sad
+9.9,10.0,5.8,8.0,"Rainy, poor air quality",2400 calories (healthy diet),Sad
+10.1,9.9,5.8,10.0,"Sunny, good air quality",1850 calories (low in protein),Sad
+9.9,9.9,5.6,10.4,"Sunny, good air quality",2850 calories (high in fat),Sad
+2.0,5.0,8.2,15.7,"Sunny, good air quality",2850 calories (high in fat),Sad
+10.0,9.9,5.8,10.0,"Sunny, good air quality",1700 calories (low in calories),Sad
+9.0,7.1,6.0,59.6,"Sunny, good air quality",2000 calories (balanced diet),Sad
+5.0,3.0,7.0,29.6,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+8.9,7.2,6.0,60.9,"Sunny, good air quality",1700 calories (low in calories),Happy
+3.9,2.0,7.4,59.7,"Sunny, good air quality",2000 calories (balanced diet),Neutral
+9.9,9.1,5.5,9.1,"Rainy, poor air quality",1700 calories (low in calories),Sad
+8.0,6.0,6.4,46.0,"Sunny, good air quality",3500 calories (unhealthy),Sad
+10.1,10.0,5.6,9.7,"Sunny, good air quality",1700 calories (low in calories),Sad
+7.9,6.1,6.4,44.9,"Cloudy, moderate air quality",2600 calories (high in carbs),Happy
+4.0,1.9,7.8,29.0,"Rainy, poor air quality",1750 calories (low in calories),Sad
+9.1,8.1,8.0,14.9,"Rainy, poor air quality",2400 calories (healthy diet),Happy
+10.1,10.0,5.8,9.8,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+10.0,9.0,5.2,9.6,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+2.9,1.0,7.6,30.5,"Sunny, good air quality",2500 calories (high in carbs),Sad
+6.9,4.2,6.8,45.4,"Rainy, poor air quality",1800 calories (low in protein),Sad
+8.0,6.0,6.5,44.0,"Sunny, good air quality",1850 calories (low in protein),Neutral
+3.9,1.9,7.9,30.0,"Sunny, good air quality",1750 calories (low in calories),Happy
+4.0,2.1,7.4,60.8,"Sunny, good air quality",1850 calories (low in protein),Sad
+8.9,7.1,6.2,60.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+5.0,3.2,7.0,30.0,"Sunny, good air quality",2800 calories (high in fat),Sad
+9.9,10.0,5.5,10.1,"Sunny, good air quality",3500 calories (unhealthy),Happy
+9.1,7.1,6.0,60.2,"Sunny, good air quality",3000 calories (unhealthy),Happy
+9.0,7.0,6.2,60.5,"Rainy, poor air quality",2450 calories (healthy diet),Neutral
+8.9,7.0,6.2,59.9,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+10.1,8.9,5.5,10.4,"Cloudy, moderate air quality",2850 calories (high in fat),Sad
+8.1,6.0,6.5,44.6,"Sunny, good air quality",2100 calories (balanced diet),Happy
+8.9,6.9,6.2,58.6,"Sunny, good air quality",1700 calories (low in calories),Happy
+4.1,1.9,7.4,59.2,"Rainy, poor air quality",3500 calories (unhealthy),Neutral
+3.0,0.9,8.5,15.4,"Sunny, good air quality",3700 calories (unhealthy),Neutral
+9.0,7.0,6.0,60.3,"Rainy, poor air quality",1800 calories (low in protein),Sad
+10.1,9.1,5.2,10.3,"Sunny, good air quality",3000 calories (unhealthy),Neutral
+7.9,6.0,6.4,45.6,"Sunny, good air quality",1750 calories (low in calories),Neutral
+8.8,7.9,8.0,15.0,"Sunny, good air quality",2500 calories (high in carbs),Happy
+9.9,9.2,5.2,10.2,"Rainy, poor air quality",3000 calories (unhealthy),Neutral
+3.0,0.9,8.5,15.3,"Sunny, good air quality",2400 calories (healthy diet),Sad
+10.0,9.0,5.4,9.7,"Rainy, poor air quality",2800 calories (high in fat),Neutral
+4.1,2.0,7.8,29.1,"Rainy, poor air quality",1850 calories (low in protein),Sad
+3.0,1.0,7.6,29.7,"Sunny, good air quality",2450 calories (healthy diet),Sad
+9.0,8.0,8.2,15.0,"Cloudy, moderate air quality",3000 calories (unhealthy),Sad
+5.0,3.0,7.0,29.4,"Rainy, poor air quality",3200 calories (unhealthy),Neutral
+10.0,10.1,5.8,10.5,"Sunny, good air quality",1750 calories (low in calories),Happy
+10.0,8.9,5.5,9.5,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+1.9,5.0,8.2,13.5,"Sunny, good air quality",2850 calories (high in fat),Sad
+9.0,7.1,6.2,60.9,"Sunny, good air quality",1700 calories (low in calories),Neutral
+10.1,10.0,5.5,9.9,"Sunny, good air quality",1750 calories (low in calories),Happy
+8.0,6.1,6.5,45.5,"Sunny, good air quality",2800 calories (high in fat),Happy
+8.8,7.0,6.0,59.5,"Sunny, good air quality",2850 calories (high in fat),Happy
+10.0,10.0,5.8,9.3,"Rainy, poor air quality",3200 calories (unhealthy),Happy
+8.8,7.0,6.2,59.6,"Cloudy, moderate air quality",2400 calories (healthy diet),Happy
+3.9,2.0,7.0,60.6,"Sunny, good air quality",3000 calories (unhealthy),Happy
+8.0,5.9,6.5,44.4,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+5.0,3.0,7.2,29.7,"Sunny, good air quality",1800 calories (low in protein),Happy
+5.2,3.2,7.3,29.9,"Sunny, good air quality",1800 calories (low in protein),Sad
+6.8,4.0,6.5,44.9,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+10.0,9.0,5.2,10.7,"Rainy, poor air quality",2250 calories (healthy diet),Sad
+7.9,6.1,6.4,44.9,"Sunny, good air quality",1800 calories (low in protein),Happy
+6.9,4.2,6.6,45.1,"Sunny, good air quality",1800 calories (low in protein),Neutral
+4.0,2.1,7.0,60.8,"Rainy, poor air quality",2500 calories (high in carbs),Happy
+9.0,7.9,8.0,15.7,"Sunny, good air quality",2600 calories (high in carbs),Sad
+10.0,10.0,5.8,10.1,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+10.0,10.0,5.6,9.1,"Cloudy, moderate air quality",2400 calories (healthy diet),Sad
+7.0,4.0,6.7,45.4,"Sunny, good air quality",3700 calories (unhealthy),Happy
+8.0,6.0,6.4,45.4,"Sunny, good air quality",2500 calories (high in carbs),Sad
+9.9,9.0,5.5,10.2,"Sunny, good air quality",1750 calories (low in calories),Happy
+5.1,3.0,7.0,29.3,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+7.1,4.0,6.9,44.7,"Sunny, good air quality",2050 calories (balanced diet),Sad
+3.9,2.0,7.4,59.9,"Rainy, poor air quality",2850 calories (high in fat),Happy
+10.1,10.0,5.8,9.9,"Sunny, good air quality",2050 calories (balanced diet),Neutral
+9.0,8.0,8.0,15.5,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+10.0,9.1,5.2,10.1,"Rainy, poor air quality",3200 calories (unhealthy),Neutral
+4.0,2.0,7.0,60.9,"Cloudy, moderate air quality",1850 calories (low in protein),Happy
+3.2,1.1,7.6,30.9,"Cloudy, moderate air quality",2500 calories (high in carbs),Happy
+9.9,9.0,5.5,9.6,"Rainy, poor air quality",2450 calories (healthy diet),Neutral
+9.1,8.0,8.0,14.0,"Sunny, good air quality",3200 calories (unhealthy),Happy
+10.0,10.0,5.8,10.3,"Sunny, good air quality",3000 calories (unhealthy),Happy
+10.1,10.1,5.8,10.1,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+9.9,10.0,5.6,10.5,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.9,1.9,7.4,59.4,"Rainy, poor air quality",1800 calories (low in protein),Sad
+7.9,5.9,6.4,45.5,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.9,3.0,7.2,30.4,"Sunny, good air quality",2250 calories (healthy diet),Happy
+10.0,9.9,5.8,9.7,"Sunny, good air quality",3200 calories (unhealthy),Neutral
+2.9,1.1,7.6,29.8,"Cloudy, moderate air quality",2450 calories (healthy diet),Happy
+4.1,1.8,7.0,58.8,"Rainy, poor air quality",2500 calories (high in carbs),Neutral
+3.0,1.2,7.6,30.7,"Cloudy, moderate air quality",2250 calories (healthy diet),Happy
+9.9,10.0,5.6,10.3,"Cloudy, moderate air quality",2200 calories (healthy diet),Sad
+10.0,9.9,5.6,9.8,"Rainy, poor air quality",2000 calories (balanced diet),Happy
+4.0,2.1,7.8,29.6,"Rainy, poor air quality",2250 calories (healthy diet),Happy
+9.1,7.0,6.2,60.5,"Sunny, good air quality",1850 calories (low in protein),Neutral
+2.0,5.2,8.2,14.5,"Sunny, good air quality",1800 calories (low in protein),Neutral
+7.0,4.0,6.6,45.0,"Cloudy, moderate air quality",2450 calories (healthy diet),Sad
+5.0,2.8,7.0,30.4,"Sunny, good air quality",2800 calories (high in fat),Sad
+4.0,2.0,7.8,30.4,"Rainy, poor air quality",2050 calories (balanced diet),Happy
+3.9,1.8,7.4,60.9,"Sunny, good air quality",2100 calories (balanced diet),Happy
+10.0,10.1,5.8,9.0,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+3.1,1.0,8.5,15.3,"Rainy, poor air quality",2250 calories (healthy diet),Happy
+9.9,9.0,5.5,11.1,"Rainy, poor air quality",1850 calories (low in protein),Happy
+2.0,5.1,8.2,15.8,"Sunny, good air quality",3000 calories (unhealthy),Neutral
+10.0,10.1,5.8,10.5,"Sunny, good air quality",1800 calories (low in protein),Happy
+4.1,1.9,7.0,61.6,"Sunny, good air quality",1850 calories (low in protein),Neutral
+10.1,10.0,5.8,10.1,"Cloudy, moderate air quality",3500 calories (unhealthy),Sad
+3.9,2.0,7.0,59.7,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+3.1,0.9,7.6,30.0,"Cloudy, moderate air quality",2600 calories (high in carbs),Happy
+10.0,9.0,5.5,9.1,"Sunny, good air quality",2800 calories (high in fat),Sad
+1.8,5.1,8.2,14.0,"Cloudy, moderate air quality",2050 calories (balanced diet),Sad
+4.0,2.2,7.9,30.6,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+6.9,3.9,6.6,45.2,"Sunny, good air quality",2250 calories (healthy diet),Neutral
+8.9,6.9,6.2,60.3,"Rainy, poor air quality",2200 calories (healthy diet),Neutral
+3.9,2.0,7.8,30.3,"Cloudy, moderate air quality",3700 calories (unhealthy),Happy
+3.1,1.1,8.5,15.2,"Sunny, good air quality",2050 calories (balanced diet),Happy
+5.1,3.2,7.2,30.1,"Sunny, good air quality",2500 calories (high in carbs),Sad
+4.0,1.9,7.0,60.4,"Cloudy, moderate air quality",3200 calories (unhealthy),Neutral
+9.1,8.0,8.0,14.7,"Sunny, good air quality",1850 calories (low in protein),Happy
+10.1,9.2,5.2,10.3,"Sunny, good air quality",1800 calories (low in protein),Neutral
+4.0,2.1,7.0,60.1,"Cloudy, moderate air quality",1700 calories (low in calories),Neutral
+4.1,1.9,7.0,60.5,"Sunny, good air quality",3200 calories (unhealthy),Sad
+1.9,4.9,8.2,15.9,"Cloudy, moderate air quality",3500 calories (unhealthy),Happy
+9.0,7.0,5.9,59.3,"Cloudy, moderate air quality",2850 calories (high in fat),Sad
+4.1,2.0,7.0,59.3,"Rainy, poor air quality",2200 calories (healthy diet),Sad
+8.0,6.1,6.4,44.7,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+8.9,7.1,6.3,60.1,"Sunny, good air quality",2850 calories (high in fat),Neutral
+9.0,7.0,6.2,60.1,"Sunny, good air quality",2450 calories (healthy diet),Sad
+5.1,3.1,7.0,29.5,"Sunny, good air quality",2450 calories (healthy diet),Sad
+4.1,2.0,7.8,29.4,"Sunny, good air quality",2400 calories (healthy diet),Neutral
+7.0,4.0,6.8,45.1,"Rainy, poor air quality",2400 calories (healthy diet),Sad
+9.0,8.0,8.3,15.5,"Sunny, good air quality",1850 calories (low in protein),Neutral
+9.0,8.0,8.2,14.8,"Sunny, good air quality",3000 calories (unhealthy),Sad
+9.1,7.0,6.2,60.0,"Rainy, poor air quality",2000 calories (balanced diet),Neutral
+3.9,2.0,7.0,59.8,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+9.0,8.1,8.2,15.6,"Sunny, good air quality",2000 calories (balanced diet),Happy
+4.0,1.9,7.4,58.8,"Sunny, good air quality",2850 calories (high in fat),Sad
+8.0,5.9,6.4,44.2,"Cloudy, moderate air quality",1750 calories (low in calories),Happy
+3.1,0.9,8.5,15.1,"Rainy, poor air quality",3000 calories (unhealthy),Happy
+3.0,1.0,7.6,30.7,"Rainy, poor air quality",1700 calories (low in calories),Happy
+3.1,1.0,7.6,29.8,"Cloudy, moderate air quality",2200 calories (healthy diet),Happy
+7.9,6.1,6.4,45.7,"Sunny, good air quality",2600 calories (high in carbs),Sad
+2.9,1.0,8.5,14.6,"Sunny, good air quality",2000 calories (balanced diet),Sad
+7.0,3.9,6.6,43.9,"Sunny, good air quality",3200 calories (unhealthy),Neutral
+5.0,3.0,7.2,30.7,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+7.0,4.0,6.7,44.3,"Sunny, good air quality",2200 calories (healthy diet),Sad
+9.9,9.0,5.5,10.4,"Sunny, good air quality",2200 calories (healthy diet),Happy
+4.0,2.0,7.8,29.5,"Sunny, good air quality",2600 calories (high in carbs),Happy
+7.9,6.1,6.4,43.7,"Sunny, good air quality",2200 calories (healthy diet),Neutral
+8.1,6.1,6.4,45.1,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+9.0,7.1,6.1,60.5,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+10.1,10.0,5.8,9.5,"Rainy, poor air quality",2800 calories (high in fat),Happy
+10.0,8.9,5.2,10.1,"Rainy, poor air quality",2500 calories (high in carbs),Sad
+4.9,3.0,7.2,29.6,"Sunny, good air quality",1850 calories (low in protein),Happy
+4.0,1.9,7.8,30.3,"Rainy, poor air quality",2400 calories (healthy diet),Neutral
+10.0,9.0,5.2,9.5,"Rainy, poor air quality",2200 calories (healthy diet),Neutral
+4.9,3.1,7.0,30.8,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+4.9,3.0,7.0,30.8,"Sunny, good air quality",3000 calories (unhealthy),Happy
+2.9,1.0,8.5,15.6,"Rainy, poor air quality",3200 calories (unhealthy),Sad
+2.9,1.0,7.6,29.9,"Rainy, poor air quality",2600 calories (high in carbs),Happy
+4.1,2.1,7.0,60.0,"Cloudy, moderate air quality",1850 calories (low in protein),Neutral
+3.0,1.1,7.6,30.6,"Sunny, good air quality",1750 calories (low in calories),Sad
+9.0,8.1,8.0,15.3,"Cloudy, moderate air quality",2800 calories (high in fat),Neutral
+9.8,10.0,5.8,10.2,"Rainy, poor air quality",2800 calories (high in fat),Happy
+10.1,10.0,5.8,9.2,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+8.0,6.1,6.5,45.3,"Sunny, good air quality",3200 calories (unhealthy),Sad
+3.2,0.9,8.5,15.0,"Cloudy, moderate air quality",2600 calories (high in carbs),Happy
+8.1,6.0,6.5,45.1,"Rainy, poor air quality",2850 calories (high in fat),Happy
+4.9,3.0,7.0,30.1,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+9.0,7.2,6.2,60.7,"Sunny, good air quality",2500 calories (high in carbs),Sad
+10.1,10.0,5.8,10.1,"Cloudy, moderate air quality",3500 calories (unhealthy),Happy
+4.0,1.9,7.0,60.6,"Sunny, good air quality",2400 calories (healthy diet),Happy
+9.1,6.8,6.2,60.6,"Sunny, good air quality",1700 calories (low in calories),Neutral
+8.0,6.0,6.5,45.4,"Rainy, poor air quality",2250 calories (healthy diet),Happy
+10.1,9.0,5.2,10.9,"Sunny, good air quality",1750 calories (low in calories),Happy
+8.2,5.9,6.5,44.9,"Sunny, good air quality",2250 calories (healthy diet),Happy
+4.0,2.0,7.8,30.7,"Sunny, good air quality",1800 calories (low in protein),Sad
+9.1,7.1,6.0,60.5,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+3.0,1.1,7.6,29.9,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+8.0,6.0,6.4,45.0,"Sunny, good air quality",1700 calories (low in calories),Neutral
+3.0,0.8,8.5,15.2,"Cloudy, moderate air quality",3200 calories (unhealthy),Sad
+10.0,9.9,5.7,10.5,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+4.0,1.8,7.4,61.0,"Sunny, good air quality",2600 calories (high in carbs),Sad
+8.1,6.1,6.5,44.1,"Cloudy, moderate air quality",2850 calories (high in fat),Happy
+8.1,6.0,6.5,44.9,"Sunny, good air quality",3000 calories (unhealthy),Sad
+10.0,10.0,5.6,9.8,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+9.0,7.9,8.2,15.2,"Sunny, good air quality",2800 calories (high in fat),Happy
+9.1,7.1,6.0,59.7,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+7.9,6.1,6.5,44.9,"Sunny, good air quality",2500 calories (high in carbs),Happy
+10.1,9.9,5.8,10.1,"Sunny, good air quality",1750 calories (low in calories),Neutral
+3.0,1.0,7.6,30.4,"Cloudy, moderate air quality",1700 calories (low in calories),Sad
+3.0,1.0,8.5,15.1,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+10.1,9.0,5.5,10.9,"Cloudy, moderate air quality",3500 calories (unhealthy),Sad
+7.0,3.8,6.6,45.6,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+10.0,9.8,5.8,9.4,"Rainy, poor air quality",3500 calories (unhealthy),Happy
+9.1,7.1,6.2,60.2,"Rainy, poor air quality",3700 calories (unhealthy),Neutral
+4.9,3.0,7.0,30.1,"Cloudy, moderate air quality",2100 calories (balanced diet),Sad
+5.0,3.1,7.2,28.8,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+10.1,10.0,5.6,10.2,"Cloudy, moderate air quality",2050 calories (balanced diet),Sad
+10.1,9.1,5.5,10.6,"Sunny, good air quality",2100 calories (balanced diet),Sad
+9.9,10.0,5.8,9.9,"Sunny, good air quality",3000 calories (unhealthy),Sad
+3.8,2.1,7.0,59.0,"Sunny, good air quality",2100 calories (balanced diet),Sad
+10.0,9.0,5.2,10.9,"Sunny, good air quality",1700 calories (low in calories),Neutral
+8.0,6.1,6.5,45.4,"Sunny, good air quality",2600 calories (high in carbs),Happy
+4.1,2.1,7.0,59.2,"Sunny, good air quality",3700 calories (unhealthy),Sad
+9.0,7.2,6.3,59.0,"Rainy, poor air quality",3200 calories (unhealthy),Happy
+3.9,2.0,7.8,30.6,"Sunny, good air quality",2600 calories (high in carbs),Happy
+3.0,0.7,8.5,15.5,"Rainy, poor air quality",2450 calories (healthy diet),Happy
+4.1,2.0,7.0,59.8,"Sunny, good air quality",2100 calories (balanced diet),Happy
+9.2,7.9,8.2,14.7,"Cloudy, moderate air quality",2850 calories (high in fat),Sad
+2.9,1.1,8.5,14.9,"Sunny, good air quality",1750 calories (low in calories),Sad
+8.0,6.0,6.4,45.5,"Rainy, poor air quality",2200 calories (healthy diet),Sad
+10.1,10.0,5.7,9.4,"Sunny, good air quality",2800 calories (high in fat),Neutral
+9.0,6.8,6.0,60.2,"Sunny, good air quality",3500 calories (unhealthy),Sad
+9.9,10.1,5.6,10.1,"Cloudy, moderate air quality",2000 calories (balanced diet),Neutral
+4.0,1.9,7.4,60.5,"Cloudy, moderate air quality",2050 calories (balanced diet),Happy
+10.0,9.1,5.5,10.1,"Rainy, poor air quality",1700 calories (low in calories),Sad
+8.9,7.1,6.0,60.6,"Sunny, good air quality",2250 calories (healthy diet),Sad
+3.0,0.9,8.5,14.2,"Cloudy, moderate air quality",2450 calories (healthy diet),Happy
+9.0,6.9,6.2,59.3,"Cloudy, moderate air quality",1700 calories (low in calories),Neutral
+3.1,0.9,7.6,29.6,"Sunny, good air quality",2800 calories (high in fat),Sad
+2.9,1.1,7.6,29.7,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+4.9,2.9,7.2,30.2,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+4.9,3.1,7.2,29.7,"Sunny, good air quality",3200 calories (unhealthy),Happy
+2.9,1.0,8.5,16.1,"Sunny, good air quality",1850 calories (low in protein),Sad
+4.0,2.1,7.4,60.1,"Rainy, poor air quality",2850 calories (high in fat),Neutral
+4.0,2.1,7.0,60.2,"Sunny, good air quality",2600 calories (high in carbs),Neutral
+3.0,1.0,7.6,28.9,"Rainy, poor air quality",1850 calories (low in protein),Happy
+8.0,6.1,6.5,44.5,"Cloudy, moderate air quality",2200 calories (healthy diet),Neutral
+4.8,3.0,7.0,29.6,"Cloudy, moderate air quality",1800 calories (low in protein),Sad
+9.1,8.0,8.2,14.5,"Sunny, good air quality",1850 calories (low in protein),Happy
+8.9,8.0,8.0,15.7,"Rainy, poor air quality",1800 calories (low in protein),Happy
+7.1,4.0,6.6,44.6,"Cloudy, moderate air quality",2850 calories (high in fat),Neutral
+4.9,3.1,7.0,30.6,"Sunny, good air quality",2600 calories (high in carbs),Neutral
+2.9,0.9,8.5,15.2,"Sunny, good air quality",1800 calories (low in protein),Neutral
+3.0,1.2,8.5,15.8,"Sunny, good air quality",3200 calories (unhealthy),Neutral
+8.9,8.0,8.1,15.5,"Rainy, poor air quality",1750 calories (low in calories),Happy
+9.0,7.1,6.0,59.5,"Cloudy, moderate air quality",2100 calories (balanced diet),Neutral
+10.1,9.0,5.2,10.0,"Cloudy, moderate air quality",2500 calories (high in carbs),Neutral
+3.0,0.9,8.5,15.5,"Sunny, good air quality",2500 calories (high in carbs),Happy
+10.0,10.0,5.8,9.7,"Rainy, poor air quality",2850 calories (high in fat),Sad
+10.0,9.0,5.2,9.4,"Sunny, good air quality",3500 calories (unhealthy),Happy
+7.0,4.0,6.8,45.1,"Rainy, poor air quality",1850 calories (low in protein),Neutral
+7.0,3.9,6.6,44.6,"Rainy, poor air quality",3000 calories (unhealthy),Happy
+7.1,4.1,6.6,44.3,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+9.0,8.1,8.2,14.5,"Rainy, poor air quality",1700 calories (low in calories),Neutral
+9.0,6.9,6.1,59.3,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+7.0,4.0,6.6,45.3,"Rainy, poor air quality",3700 calories (unhealthy),Happy
+1.9,5.1,8.2,14.3,"Rainy, poor air quality",2400 calories (healthy diet),Happy
+2.0,5.1,8.2,15.4,"Sunny, good air quality",3000 calories (unhealthy),Neutral
+5.0,2.9,7.2,30.8,"Rainy, poor air quality",1800 calories (low in protein),Sad
+10.0,10.1,5.7,10.2,"Rainy, poor air quality",1800 calories (low in protein),Sad
+8.1,6.0,6.4,44.4,"Rainy, poor air quality",2500 calories (high in carbs),Happy
+9.0,7.9,8.0,15.2,"Sunny, good air quality",2450 calories (healthy diet),Happy
+3.9,2.1,7.4,60.0,"Sunny, good air quality",3000 calories (unhealthy),Happy
+2.9,0.8,7.6,30.0,"Sunny, good air quality",2200 calories (healthy diet),Sad
+9.0,7.1,6.0,60.3,"Cloudy, moderate air quality",2500 calories (high in carbs),Neutral
+7.2,3.9,6.8,44.6,"Cloudy, moderate air quality",1750 calories (low in calories),Neutral
+9.0,7.1,6.2,59.3,"Sunny, good air quality",2600 calories (high in carbs),Neutral
+7.0,4.0,6.8,44.8,"Sunny, good air quality",1800 calories (low in protein),Sad
+5.1,3.2,7.0,29.5,"Sunny, good air quality",1850 calories (low in protein),Neutral
+9.1,7.1,6.2,59.9,"Rainy, poor air quality",2000 calories (balanced diet),Sad
+9.0,8.0,8.0,15.8,"Rainy, poor air quality",2500 calories (high in carbs),Sad
+10.1,9.1,5.2,9.8,"Cloudy, moderate air quality",2850 calories (high in fat),Neutral
+7.0,4.1,6.8,44.1,"Sunny, good air quality",1700 calories (low in calories),Happy
+3.0,0.9,8.4,16.0,"Rainy, poor air quality",2800 calories (high in fat),Neutral
+9.9,10.1,5.6,9.7,"Sunny, good air quality",2250 calories (healthy diet),Neutral
+10.1,10.0,5.8,9.8,"Rainy, poor air quality",3700 calories (unhealthy),Sad
+9.2,7.1,6.2,60.4,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+1.9,5.1,8.2,15.1,"Cloudy, moderate air quality",3200 calories (unhealthy),Happy
+2.8,1.0,7.6,30.1,"Sunny, good air quality",2200 calories (healthy diet),Sad
+9.0,7.0,6.2,59.4,"Sunny, good air quality",1750 calories (low in calories),Happy
+10.1,8.9,5.5,9.7,"Rainy, poor air quality",2800 calories (high in fat),Sad
+10.0,9.0,5.5,9.9,"Sunny, good air quality",2800 calories (high in fat),Sad
+9.1,8.2,8.2,15.2,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+9.1,7.0,6.0,60.6,"Rainy, poor air quality",1750 calories (low in calories),Sad
+3.8,1.9,7.0,59.2,"Cloudy, moderate air quality",1800 calories (low in protein),Neutral
+4.1,1.8,7.0,59.7,"Cloudy, moderate air quality",2250 calories (healthy diet),Sad
+1.9,4.9,8.2,15.3,"Rainy, poor air quality",1750 calories (low in calories),Sad
+7.9,6.1,6.5,45.2,"Cloudy, moderate air quality",2850 calories (high in fat),Sad
+5.0,2.9,7.2,29.6,"Sunny, good air quality",2400 calories (healthy diet),Happy
+10.0,8.9,5.5,10.3,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+9.0,8.0,8.0,14.9,"Rainy, poor air quality",2200 calories (healthy diet),Sad
+3.9,2.1,7.5,59.8,"Sunny, good air quality",1700 calories (low in calories),Neutral
+2.2,5.1,8.2,15.6,"Rainy, poor air quality",2200 calories (healthy diet),Neutral
+9.9,9.9,5.8,9.9,"Rainy, poor air quality",3500 calories (unhealthy),Sad
+7.0,4.0,6.8,45.6,"Cloudy, moderate air quality",2200 calories (healthy diet),Sad
+9.1,8.0,8.2,14.9,"Sunny, good air quality",1700 calories (low in calories),Happy
+9.0,7.1,6.2,59.6,"Cloudy, moderate air quality",2000 calories (balanced diet),Happy
+9.1,8.1,8.0,14.1,"Rainy, poor air quality",2850 calories (high in fat),Happy
+7.9,5.8,6.5,44.9,"Cloudy, moderate air quality",2450 calories (healthy diet),Sad
+7.0,4.1,6.6,45.5,"Sunny, good air quality",3500 calories (unhealthy),Happy
+10.1,8.9,5.5,9.7,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+2.9,0.9,7.6,30.1,"Sunny, good air quality",2000 calories (balanced diet),Neutral
+2.9,1.0,8.5,15.4,"Cloudy, moderate air quality",2000 calories (balanced diet),Neutral
+7.1,3.9,6.6,44.6,"Rainy, poor air quality",1750 calories (low in calories),Neutral
+4.0,1.9,7.0,59.7,"Rainy, poor air quality",2100 calories (balanced diet),Neutral
+10.0,9.0,5.2,10.3,"Cloudy, moderate air quality",3500 calories (unhealthy),Happy
+8.0,6.3,6.4,44.8,"Rainy, poor air quality",2400 calories (healthy diet),Happy
+3.0,1.0,7.6,30.0,"Sunny, good air quality",3200 calories (unhealthy),Sad
+4.1,2.1,7.8,30.3,"Sunny, good air quality",1750 calories (low in calories),Sad
+8.9,7.8,8.0,15.6,"Rainy, poor air quality",3200 calories (unhealthy),Sad
+8.0,6.0,6.5,45.2,"Sunny, good air quality",3200 calories (unhealthy),Sad
+2.1,5.0,8.2,14.2,"Sunny, good air quality",2000 calories (balanced diet),Happy
+4.0,2.1,7.4,60.1,"Sunny, good air quality",2800 calories (high in fat),Happy
+4.0,1.9,7.4,60.0,"Cloudy, moderate air quality",3200 calories (unhealthy),Sad
+7.2,4.0,6.6,44.4,"Sunny, good air quality",2200 calories (healthy diet),Neutral
+10.0,9.9,5.6,10.7,"Sunny, good air quality",2000 calories (balanced diet),Neutral
+4.9,3.0,7.2,29.3,"Sunny, good air quality",2400 calories (healthy diet),Happy
+9.0,6.8,6.0,59.9,"Cloudy, moderate air quality",3700 calories (unhealthy),Happy
+10.0,9.0,5.2,10.0,"Rainy, poor air quality",1850 calories (low in protein),Sad
+9.0,7.0,6.0,59.8,"Sunny, good air quality",1700 calories (low in calories),Neutral
+3.9,2.0,7.4,60.5,"Rainy, poor air quality",2850 calories (high in fat),Happy
+4.0,2.0,7.0,59.0,"Sunny, good air quality",2000 calories (balanced diet),Sad
+3.9,2.1,7.8,29.4,"Rainy, poor air quality",2200 calories (healthy diet),Happy
+9.9,8.9,5.5,10.9,"Sunny, good air quality",3500 calories (unhealthy),Neutral
+5.0,4.0,7.0,60.4,"Rainy, poor air quality",1700 calories (low in calories),Happy
+10.0,9.0,5.2,10.0,"Sunny, good air quality",2800 calories (high in fat),Sad
+3.9,1.9,7.8,29.9,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+9.0,6.9,6.0,60.5,"Sunny, good air quality",2850 calories (high in fat),Sad
+9.0,6.9,6.0,60.5,"Rainy, poor air quality",1750 calories (low in calories),Sad
+2.1,5.0,8.2,14.3,"Rainy, poor air quality",1800 calories (low in protein),Neutral
+9.9,9.0,5.5,11.2,"Rainy, poor air quality",1750 calories (low in calories),Neutral
+5.0,3.0,7.2,29.5,"Rainy, poor air quality",3000 calories (unhealthy),Sad
+3.9,2.0,7.0,60.9,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+9.0,8.0,8.2,15.4,"Cloudy, moderate air quality",2050 calories (balanced diet),Sad
+9.9,9.0,5.5,9.8,"Rainy, poor air quality",2600 calories (high in carbs),Sad
+1.9,5.0,8.2,14.3,"Sunny, good air quality",2000 calories (balanced diet),Sad
+3.1,1.0,7.6,29.5,"Rainy, poor air quality",2100 calories (balanced diet),Happy
+7.0,4.1,6.6,45.2,"Sunny, good air quality",1850 calories (low in protein),Happy
+8.0,6.1,6.4,45.2,"Rainy, poor air quality",2850 calories (high in fat),Sad
+7.1,4.2,6.6,44.6,"Sunny, good air quality",2100 calories (balanced diet),Neutral
+3.0,1.1,7.6,29.9,"Cloudy, moderate air quality",1750 calories (low in calories),Neutral
+9.0,7.9,8.2,15.1,"Sunny, good air quality",1750 calories (low in calories),Happy
+1.8,5.0,8.2,15.1,"Rainy, poor air quality",1750 calories (low in calories),Neutral
+4.0,2.0,7.0,60.6,"Sunny, good air quality",2200 calories (healthy diet),Neutral
+2.0,4.9,8.3,14.3,"Rainy, poor air quality",2100 calories (balanced diet),Sad
+7.0,3.9,6.8,44.8,"Cloudy, moderate air quality",2100 calories (balanced diet),Happy
+10.1,10.1,5.8,9.7,"Rainy, poor air quality",3000 calories (unhealthy),Happy
+10.2,8.9,5.5,10.4,"Rainy, poor air quality",2600 calories (high in carbs),Neutral
+4.1,1.9,7.8,30.4,"Sunny, good air quality",3500 calories (unhealthy),Happy
+4.1,2.0,7.4,60.1,"Sunny, good air quality",3200 calories (unhealthy),Happy
+8.9,7.1,6.0,60.1,"Sunny, good air quality",3700 calories (unhealthy),Neutral
+9.1,8.0,8.2,14.2,"Sunny, good air quality",3700 calories (unhealthy),Happy
+9.0,6.9,6.2,60.2,"Cloudy, moderate air quality",1750 calories (low in calories),Neutral
+5.0,2.9,7.0,29.4,"Sunny, good air quality",2800 calories (high in fat),Happy
+8.0,6.0,6.5,44.5,"Cloudy, moderate air quality",2500 calories (high in carbs),Neutral
+2.9,0.9,7.6,30.0,"Sunny, good air quality",1850 calories (low in protein),Happy
+4.1,2.1,7.0,60.7,"Rainy, poor air quality",3200 calories (unhealthy),Neutral
+4.0,1.9,7.0,59.6,"Cloudy, moderate air quality",2250 calories (healthy diet),Sad
+8.1,6.1,6.4,44.8,"Sunny, good air quality",2100 calories (balanced diet),Sad
+1.9,4.9,8.1,15.1,"Sunny, good air quality",3200 calories (unhealthy),Sad
+6.9,4.0,6.6,44.9,"Rainy, poor air quality",1850 calories (low in protein),Happy
+7.9,5.8,6.4,45.4,"Rainy, poor air quality",2400 calories (healthy diet),Happy
+9.1,6.8,6.0,59.6,"Rainy, poor air quality",1750 calories (low in calories),Happy
+8.0,5.9,6.5,44.7,"Cloudy, moderate air quality",2000 calories (balanced diet),Happy
+5.1,3.1,7.0,30.7,"Rainy, poor air quality",2250 calories (healthy diet),Sad
+10.0,9.2,5.5,9.9,"Sunny, good air quality",3500 calories (unhealthy),Sad
+5.1,2.9,7.2,31.1,"Sunny, good air quality",2000 calories (balanced diet),Happy
+10.1,9.9,5.6,10.3,"Cloudy, moderate air quality",1850 calories (low in protein),Sad
