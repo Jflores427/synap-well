@@ -1,35 +1,35 @@
-Date,Duration of Sleep (hours),Quality of Sleep  (1-10),Daily Weigh-in,BMI Category,"Nutrition Intake (calories, breakdown of nutrients, etc.)",Level of Physical Activity (minutes per day),Heart Rate (bpm),Systolic and Diastolic Blood Pressure,Level of Stress (scale: 1–10),Level of Workload (scale: 1–10),Environmental Aspects (such as weather and air quality),"Additional health indicators (e.g., water levels, steps)",Emotion Classification,Notes
-03/14/2025,4,5,126.5,Normal,1750,60,71,117/55,6,5,"Sunny, Good Air Quality","1.5 Liter, 1000 Steps",Negative,"Barely had any sleep, I am feeling terrible"
-03/15/2025,5,5,126,Normal,1700,20,69,114/53,5,4,"Cloudy, Good Air Quality","1.25 Liter, 2105 Steps",Neutral,Regular day
-03/16/2025,6,6,125.6,Normal,1800 (High in Protein),75,68,111/51,3,4,"Cloudy, Good Air Quality","1 Liter, 8851 Steps",Positive,"Went out for a long jog, I enjoyed it"
-03/17/2025,6,6,126.2,Normal,"1900 (High in Carbs, Balanced)",80,70,102/55,2,4,"Cloudy, Good Air Quality","0.75 Liter, 2251 Steps",Positive,"Went out for a short jog and lifted weights, it was nice"
-03/18/2025,7,7,126.8,Normal,"1760 (Low in Protein, Healthy)",90,67,118/53,3,3,"Sunny, Good Air Quality","0.85 Liter, 11080 Steps",Positive,"Went out for a long jog, good weather, it was great"
-03/19/2025,5,6,125.8,Normal,1920 (Balanced),75,70,119/47,5,3,"Sunny, Good Air Quality","1.2 Liter, 8910 Steps",Positive,"Regular Day, I am feeling good"
-03/20/2025,5,5,126.5,Normal,2100 (High in Carbs),20,67,106/62,4,5,"Rainy, Decent Air Quality","0.5 Liter, 500 Steps",Positive,"Study day, I am still feeling great"
-03/21/2025,5,6,127.6,Normal,"1950 (High in Protein, Carbs)",15,70,121/77,4,6,"Sunny, Good Air Quality","0.9 Liter, 600 Steps",Neutral,Study Day
-03/22/2025,5,5,126.8,Normal,1875 (Balanced),45,69,104/59,8,6,"Cloudy, Good Air Quality","1.2 Liter, 6951 Steps",Negative,Feeling Sick Today
-03/23/2025,6,6,127.2,Normal,1900 (High in Carbs),10,71,127/70,7,7,"Cloudy, Good Air Quality","1.5 Liter, 200 Steps",Negative,Still Sick
-03/24/2025,5,6,127.8,Normal,2100 (High in Carbs),10,72,127/77,5,4,"Rainy, Decent Air Quality","1.2 Liter, 250 Steps",Neutral,I Still feel Sick; I am getting slightly better
-03/25/2025,6,7,127,Normal,1750 (Balanced),15,81,108/74,3,4,"Sunny, Good Air Quality","0.5 Liter, 200 Steps",Positive,Feeling Better
-03/26/2025,5,6,126.2,Normal,1400 (Diet),10,81,107/77,4,4,"Cloudy, Decent Air Quality","0.85 Liter, 275 Steps",Neutral,Regular day
-03/27/2025,5,5,125.6,Normal,1850 (High in Carbs),5,75,119/77,3,5,"Sunny, Good Air Quality","0.95 Liter, 200 Steps",Positive,"Study Day, I am feeling focused"
-03/28/2025,7,7,125.8,Normal,1650 (Balanced),5,75,111/78,4,4,"Cloudy, Good Air Quality","0.75 Liter, 175 Steps",Positive,"Interviewed for a job role, I feel optimistic"
-03/29/2025,4,4,125.4,Normal,1400 (Diet),60,62,122/76,7,6,"Sunny, Good Air Quality","1.2 Liter, 8947 Steps",Negative,"Didn't get the job offer, a little bummed out"
-03/30/2025,5,5,124.6,Normal,1800 (Balanced),5,64,116/57,6,8,"Sunny, Good Air Quality","0.85 Liter, 200 Steps",Negative,Midterm Tomorrow; I am feeling stressed out
-03/31/2025,6,6,125.4,Normal,1950 (High in Carbs),80,76,118/74,4,6,"Cloudy, Good Air Quality","1.05 Liter, 850 Steps",Positive,Completed Midterm; I can finally relax again
-04/01/2025,8,8,125.8,Normal,1800 (High in Carbs),10,65,108/62,5,5,"Sunny, Good Air Quality","1.25 Liter, 300 Steps",Positive,"Felt like a great day, it was a good vibes all around"
-04/02/2025,5,6,126.2,Normal,1450 (Diet),5,72,120/69,6,5,"Cloudy, Good Air Quality","0.85 Liter, 250 Steps",Neutral,Average day
-04/03/2025,5,6,125.6,Normal,1600 (Balanced),10,71,129/71,5,6,"Cloudy, Good Air Quality","1.05 Liter, 200 Steps",Neutral,Average Day
-04/04/2025,7,7,125.4,Normal,1550 (Low in Carbs),5,69,119/68,4,4,"Sunny, Good Air Quality","0.95 Liter, 300 Steps",Positive,Good Sleep; Good Progress on my work
-04/05/2025,5,5,125.8,Normal,1750 (High in Protein),5,68,125/71,6,6,"Cloudy, Decent Air Quality","0.65 Liter, 200 Steps",Neutral,Average Day
-04/06/2025,3,4,126.3,Normal,2025 (Balanced),5,73,122/69,7,7,"Rainy, Good Air Quality","0.89 Liter, 250 Steps",Negative,A lot of work today; I was forced to stay indoors
-04/07/2025,5,6,126.9,Normal,1850 (High in Carbs),45,71,121/67,5,5,"Cloudy, Good Air Quality","1.15 Liter, 2650 Steps",Neutral,Did a short jog
-04/08/2025,6,7,126.4,Normal,1650 (Low in Carbs),5,69,118/65,4,5,"Sunny, Good Air Quality","0.85 Liter, 225 Steps",Neutral,Normal day
-04/09/2025,7,7,126.6,Normal,1900 (Balanced),10,68,122/72,4,4,"Sunny, Great Air Quality","0.6 Liter,  1500 Steps",Positive,"Great day, went outside, low workload, and great sleep"
-04/10/2025,5,6,126.2,Normal,1700 (High in Protein),5,67,119/71,5,7,"Cloudy, Good Air Quality","0.7 Liter, 250 Steps",Neutral,Average Day
-04/11/2025,6,7,125.6,Normal,1450 (Diet),10,71,121/67,6,4,"Rainy, Good Air Quality","1.1 Liter, 200 Steps",Positive,I got an internship for the summer!!
-04/12/2025,6,6,126.4,Normal,2700 (High in Carbs),20,72,115/65,5,4,"Rainy, Good Air Quality","0.8 Liter, 225 Steps",Positive,"Went out to celebrate, All you can eat Sushi"
-04/13/2025,5,5,125.8,Normal,1400 (Diet),15,69,121/66,3,5,"Cloudy, Great Air Quality","0.9 Liter, 400 Steps",Neutral,It was a chill and regular diet day
-04/14/2025,6,7,125.2,Normal,1600 (Balanced),60,68,123/71,5,5,"Sunny, Good Air Quality","1.3 Liter, 6050 Steps",Positive,Negotiated Salary and accepted the internship offer!!
-04/15/2025,5,5,124.4,Underweight,1250 (Diet),5,70,126/68,6,6,"Sunny, Great Air Quality","0.85 Liter, 200 Steps",Neutral,Regular Average Day
-04/16/2025,7,7,125.2,Normal,1950 (High in Carbs),10,70,126/69,3,3,"Sunny, Great Air Quality","1.05 Liter, 450 Steps",Positive,"Great day, went outside, low workload, and great sleep"
+Date,Duration of Sleep (hours),Quality of Sleep  (1-10),Daily Weigh-in,BMI Category,"Nutrition Intake (calories, breakdown of nutrients, etc.)",Level of Physical Activity (minutes per day),Heart Rate (bpm),Systolic and Diastolic Blood Pressure,Level of Stress (scale: 1–10),Level of Workload (scale: 1–10),Environmental Aspects (such as weather and air quality),"Additional health indicators (e.g., water levels, steps)",Mood Output,Notes
+03/14/2025,4,5,126.5,Normal,1750 Calories (Balanced),60,71,117/55,6,5,"Sunny, Good Air Quality","1.5 Liter, 1000 Steps",Negative,"Barely had any sleep, feeling terrible"
+03/15/2025,5,5,126,Normal,1700 Calories (Balanced),20,69,114/53,5,4,"Cloudy, Good Air Quality","1.25 Liter, 2105 Steps",Neutral,Regular day
+03/16/2025,6,6,125.6,Normal,1800 Calories (High in Protein),75,68,111/51,3,4,"Cloudy, Good Air Quality","1 Liter, 8851 Steps",Positive,"Went out for a long jog, I enjoyed it"
+03/17/2025,6,6,126.2,Normal,"1900 Calories (High in Carbs, Balanced)",80,70,102/55,2,4,"Cloudy, Good Air Quality","0.75 Liter, 2251 Steps",Positive,"Went out for a short jog and lifted weights, it was nice"
+03/18/2025,7,7,126.8,Normal,"1760 Calories (Low in Protein, Healthy)",90,67,118/53,3,3,"Sunny, Good Air Quality","0.85 Liter, 11080 Steps",Positive,"Went out for a long jog, good weather, it was great"
+03/19/2025,5,6,125.8,Normal,1920 Calories (Balanced),75,70,119/47,5,3,"Sunny, Good Air Quality","1.2 Liter, 8910 Steps",Positive,"Regular Day, I am feeling good"
+03/20/2025,5,5,126.5,Normal,2100 Calories (High in Carbs),20,67,106/62,4,5,"Rainy, Decent Air Quality","0.5 Liter, 500 Steps",Positive,"Study day, I am still feeling great"
+03/21/2025,5,6,127.6,Normal,"1950 Calories (High in Protein, Carbs)",15,70,121/77,4,6,"Sunny, Good Air Quality","0.9 Liter, 600 Steps",Neutral,Study Day
+03/22/2025,5,5,126.8,Normal,1875 Calories (Balanced),45,69,104/59,8,6,"Cloudy, Good Air Quality","1.2 Liter, 6951 Steps",Negative,Feeling Sick Today
+03/23/2025,6,6,127.2,Normal,1900 Calories (High in Carbs),10,71,127/70,7,7,"Cloudy, Good Air Quality","1.5 Liter, 200 Steps",Negative,Still Sick
+03/24/2025,5,6,127.8,Normal,2100 Calories (High in Carbs),10,72,127/77,5,4,"Rainy, Decent Air Quality","1.2 Liter, 250 Steps",Neutral,I Still feel Sick; I am getting slightly better
+03/25/2025,6,7,127,Normal,1750 Calories (Balanced),15,81,108/74,3,4,"Sunny, Good Air Quality","0.5 Liter, 200 Steps",Positive,Feeling Better
+03/26/2025,5,6,126.2,Normal,1400 Calories (Diet),10,81,107/77,4,4,"Cloudy, Decent Air Quality","0.85 Liter, 275 Steps",Neutral,Regular day
+03/27/2025,5,5,125.6,Normal,1850 Calories (High in Carbs),5,75,119/77,3,5,"Sunny, Good Air Quality","0.95 Liter, 200 Steps",Positive,"Study Day, I am feeling focused"
+03/28/2025,7,7,125.8,Normal,1650 Calories (Balanced),5,75,111/78,4,4,"Cloudy, Good Air Quality","0.75 Liter, 175 Steps",Positive,"Interviewed for a job role, I feel optimistic"
+03/29/2025,4,4,125.4,Normal,1400 Calories (Diet),60,62,122/76,7,6,"Sunny, Good Air Quality","1.2 Liter, 8947 Steps",Negative,"Didn't get the job offer, a little bummed out"
+03/30/2025,5,5,124.6,Normal,1800 Calories (Balanced),5,64,116/57,6,8,"Sunny, Good Air Quality","0.85 Liter, 200 Steps",Negative,Midterm Tomorrow; I am feeling stressed out
+03/31/2025,6,6,125.4,Normal,1950 Calories (High in Carbs),80,76,118/74,4,6,"Cloudy, Good Air Quality","1.05 Liter, 850 Steps",Positive,Completed Midterm; I can finally relax again
+04/01/2025,8,8,125.8,Normal,1800 Calories (High in Carbs),10,65,108/62,5,5,"Sunny, Good Air Quality","1.25 Liter, 300 Steps",Positive,"Felt like a great day, it was a good vibes all around"
+04/02/2025,5,6,126.2,Normal,1450 Calories (Diet),5,72,120/69,6,5,"Cloudy, Good Air Quality","0.85 Liter, 250 Steps",Neutral,Average day
+04/03/2025,5,6,125.6,Normal,1600 Calories (Balanced),10,71,129/71,5,6,"Cloudy, Good Air Quality","1.05 Liter, 200 Steps",Neutral,Average Day
+04/04/2025,7,7,125.4,Normal,1550 Calories (Low in Carbs),5,69,119/68,4,4,"Sunny, Good Air Quality","0.95 Liter, 300 Steps",Positive,Good Sleep; Good Progress on my work
+04/05/2025,5,5,125.8,Normal,1750 Calories (High in Protein),5,68,125/71,6,6,"Cloudy, Decent Air Quality","0.65 Liter, 200 Steps",Neutral,Average Day
+04/06/2025,3,4,126.3,Normal,2025 Calories (Balanced),5,73,122/69,7,7,"Rainy, Good Air Quality","0.89 Liter, 250 Steps",Negative,A lot of work today; I was forced to stay indoors
+04/07/2025,5,6,126.9,Normal,1850 Calories (High in Carbs),45,71,121/67,5,5,"Cloudy, Good Air Quality","1.15 Liter, 2650 Steps",Neutral,Did a short jog
+04/08/2025,6,7,126.4,Normal,1650 Calories (Low in Carbs),5,69,118/65,4,5,"Sunny, Good Air Quality","0.85 Liter, 225 Steps",Neutral,Normal day
+04/09/2025,7,7,126.6,Normal,1900 Calories (Balanced),10,68,122/72,4,4,"Sunny, Great Air Quality","0.6 Liter,  1500 Steps",Positive,"Great day, went outside, low workload, and great sleep"
+04/10/2025,5,6,126.2,Normal,1700 Calories (High in Protein),5,67,119/71,5,7,"Cloudy, Good Air Quality","0.7 Liter, 250 Steps",Neutral,Average Day
+04/11/2025,6,7,125.6,Normal,1450 Calories (Diet),10,71,121/67,6,4,"Rainy, Good Air Quality","1.1 Liter, 200 Steps",Positive,I got an internship for the summer!!
+04/12/2025,6,6,126.4,Normal,2700 Calories (High in Carbs),20,72,115/65,5,4,"Rainy, Good Air Quality","0.8 Liter, 225 Steps",Positive,"Went out to celebrate, All you can eat Sushi"
+04/13/2025,5,5,125.8,Normal,1400 Calories (Diet),15,69,121/66,3,5,"Cloudy, Great Air Quality","0.9 Liter, 400 Steps",Neutral,It was a chill and regular diet day
+04/14/2025,6,7,125.2,Normal,1600 Calories (Balanced),60,68,123/71,5,5,"Sunny, Good Air Quality","1.3 Liter, 6050 Steps",Positive,Negotiated Salary and accepted the internship offer!!
+04/15/2025,5,5,124.4,Underweight,1250 Calories (Diet),5,70,126/68,6,6,"Sunny, Great Air Quality","0.85 Liter, 200 Steps",Neutral,Regular Average Day
+04/16/2025,7,7,125.2,Normal,1950 Calories (High in Carbs),10,70,126/69,3,3,"Sunny, Great Air Quality","1.05 Liter, 450 Steps",Positive,"Great day, went outside, low workload, and great sleep"
