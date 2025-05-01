@@ -2,6 +2,9 @@
 /data/external
 /data/interim
 
+# venv
+/myenv
+
 # Models
 /models/custom-emotion-model/logs
 /models/custom-emotion-model/results
