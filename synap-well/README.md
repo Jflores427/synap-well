@@ -24,6 +24,16 @@ pip install -r requirements.txt
 
 This project requires Cuda Toolkit 12.4 to be installed.
 
+Also, remember to create a .env file in the following format with corresponding populated values:
+
+```
+HUGGING_FACE_TOKEN=<Hugging_Face_Token_ID>
+WEATHER_API_KEY=<WEATHER_API_KEY_ID>
+# WEATHER_API_KEY is from weatherapi.com
+```
+
+
+
 ### The main functionality of this project is found within main_workflow.ipynb
 
 ## Project Organization
