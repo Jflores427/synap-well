@@ -1,18 +1,12 @@
-# synap-well
+# SynapWell
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
-
-A Machine Learning project that combines health, mood, weather, activity preferences for healthy mental health/fitness activity suggestions.
+A Machine Learning project that combines health, mood, weather, and activity preferences for daily mental health/fitness activity suggestions.
 
 ## Summary:
 
-For some people, mental well-being is an ongoing battle that has people struggling and thriving on both sides of the spectrum. Nevertheless, it is a battle we must all face as we guide ourselves through the vicissitudes of everyday life. This is especially the case for people who experience seasonal affective disorder (SAD) and find it genuinely difficult to find a positive balance in their life. This situation becomes even further exacerbated when taking into account non-ideal weather conditions. As such, our group has decided to contrive a machine-learning project that will help alleviate that mental load through thoughtful suggestions and recommendations.  
-
+Mental Health is an ongoing battle that has people struggling and thriving on both sides of the spectrum. Nevertheless, it is a battle we must all face as we guide ourselves through the vicissitudes of everyday life. This is especially the case for people who experience seasonal affective disorder (SAD) and find it genuinely difficult to find a positive balance in their life. This situation becomes even further exacerbated when taking into account non-ideal weather conditions. As such, our group has decided to contrive a machine-learning project that will help alleviate that mental load through thoughtful suggestions and recommendations.  
 
 To elaborate, this project aims to develop a personalized AI coach that optimizes daily activity recommendations based on weather conditions, mental well-being, and physical fitness. Many individuals struggle with maintaining consistent fitness routines and mental well-being due to external factors such as weather changes, seasonal affective disorder, and lifestyle habits. By leveraging machine learning and large language models (LLMs), this AI system provides personalized recommendations for workouts and mindfulness exercises, helping users make informed lifestyle choices.
-
 
 ## Installation Steps (Windows)
 ### 1. Create a Python virtual environment in your terminal with the following command:
@@ -24,17 +18,15 @@ pip install -r requirements.txt
 
 This project requires Cuda Toolkit 12.4 to be installed.
 
-Also, remember to create a .env file in the following format with corresponding populated values:
+Also, remember to create a .env file in the following format with its corresponding populated values:
 
 ```
-HUGGING_FACE_TOKEN=<Hugging_Face_Token_ID>
+HUGGING_FACE_TOKEN=<HUGGING_FACE_TOKEN_ID>
 WEATHER_API_KEY=<WEATHER_API_KEY_ID>
 # WEATHER_API_KEY is from weatherapi.com
 ```
 
-
-
-### The main functionality of this project is found within main_workflow.ipynb
+### The main functionality of this project is situated within main_workflow.ipynb
 
 ## Project Organization
 
